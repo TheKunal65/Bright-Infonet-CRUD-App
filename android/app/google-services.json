@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285470800009",
+    "project_id": "crud-app-d08bc",
+    "storage_bucket": "crud-app-d08bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285470800009:android:74d371ffb293ff68aa2e58",
+        "android_client_info": {
+          "package_name": "com.example.kunal_bright_infonet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJAcfdv2yaacD4Y0yRHbQvPtzGv7sb5LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
